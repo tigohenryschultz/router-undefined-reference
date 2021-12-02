@@ -1,0 +1,7 @@
+{
+  "name": "Router.GO Bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

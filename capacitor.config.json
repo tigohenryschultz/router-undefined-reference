@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Router.GO Bug",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
